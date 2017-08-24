@@ -1,3 +1,3 @@
 # SpringHibernateCRUD
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/fsrodriguezm/SpringHibernateCRUD/master/app.png?raw=true "Optional Title")
